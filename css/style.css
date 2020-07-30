@@ -4,6 +4,7 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -10754,8 +10755,8 @@ h5,
   margin-right: -50px;
 }
 #sidebar h1 {
-  margin-bottom: 20px;
   font-weight: 700;
+  font-size: 25px;
 }
 #sidebar h1 .logo {
   color: #fff;
